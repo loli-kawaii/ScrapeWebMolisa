@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r7afhhTBlj7ODyS9Az6yG7Naq8q/uHCLSUbjyZ4nV9W0JmWhAFM9Nu04IoLKJEplDOMn+d3E5y+fERkc1I/Mzw==",
+  "success": true,
+  "projectFilePath": "D:\\HocTap\\Lap_Trinh_HTML\\ScrapeWebMolisa\\ScrapeWebMolisa\\ScrapeWebMolisa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
