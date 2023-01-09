@@ -14,6 +14,43 @@
             "related": ".deps.json;.pdb;.xml"
           }
         }
+      },
+      "ScrapeWebMolisa.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ScrapeWebMolisa.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScrapeWebMolisa.Model.dll": {}
+        }
+      },
+      "ScrapeWebMolisa.Repo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ScrapeWebMolisa.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ScrapeWebMolisa.Repo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScrapeWebMolisa.Repo.dll": {}
+        }
+      },
+      "ScrapeWebMolisa.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ScrapeWebMolisa.Model": "1.0.0",
+          "ScrapeWebMolisa.Repo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ScrapeWebMolisa.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScrapeWebMolisa.Service.dll": {}
+        }
       }
     }
   },
@@ -65,11 +102,28 @@
         "lib/uap10.0/HtmlAgilityPack.pdb",
         "lib/uap10.0/HtmlAgilityPack.pri"
       ]
+    },
+    "ScrapeWebMolisa.Model/1.0.0": {
+      "type": "project",
+      "path": "../ScrapeWebMolisa.Model/ScrapeWebMolisa.Model.csproj",
+      "msbuildProject": "../ScrapeWebMolisa.Model/ScrapeWebMolisa.Model.csproj"
+    },
+    "ScrapeWebMolisa.Repo/1.0.0": {
+      "type": "project",
+      "path": "../ScrapeWebMolisa.Repo/ScrapeWebMolisa.Repo.csproj",
+      "msbuildProject": "../ScrapeWebMolisa.Repo/ScrapeWebMolisa.Repo.csproj"
+    },
+    "ScrapeWebMolisa.Service/1.0.0": {
+      "type": "project",
+      "path": "../ScrapeWebMolisa.Service/ScrapeWebMolisa.Service.csproj",
+      "msbuildProject": "../ScrapeWebMolisa.Service/ScrapeWebMolisa.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows8.0": [
-      "HtmlAgilityPack >= 1.11.46"
+      "HtmlAgilityPack >= 1.11.46",
+      "ScrapeWebMolisa.Model >= 1.0.0",
+      "ScrapeWebMolisa.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -98,7 +152,14 @@
       "frameworks": {
         "net5.0-windows8.0": {
           "targetAlias": "net5.0-windows8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\HocTap\\Lap_Trinh_HTML\\ScrapeWebMolisa\\ScrapeWebMolisa.Model\\ScrapeWebMolisa.Model.csproj": {
+              "projectPath": "D:\\HocTap\\Lap_Trinh_HTML\\ScrapeWebMolisa\\ScrapeWebMolisa.Model\\ScrapeWebMolisa.Model.csproj"
+            },
+            "D:\\HocTap\\Lap_Trinh_HTML\\ScrapeWebMolisa\\ScrapeWebMolisa.Service\\ScrapeWebMolisa.Service.csproj": {
+              "projectPath": "D:\\HocTap\\Lap_Trinh_HTML\\ScrapeWebMolisa\\ScrapeWebMolisa.Service\\ScrapeWebMolisa.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

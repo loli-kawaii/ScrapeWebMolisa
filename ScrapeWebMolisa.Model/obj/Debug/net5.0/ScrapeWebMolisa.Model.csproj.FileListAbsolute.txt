@@ -1,0 +1,12 @@
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\bin\Debug\net5.0\ScrapeWebMolisa.Model.deps.json
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\bin\Debug\net5.0\ScrapeWebMolisa.Model.dll
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\bin\Debug\net5.0\ScrapeWebMolisa.Model.pdb
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ScrapeWebMolisa.Model.csproj.AssemblyReference.cache
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ScrapeWebMolisa.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ScrapeWebMolisa.Model.AssemblyInfoInputs.cache
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ScrapeWebMolisa.Model.AssemblyInfo.cs
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ScrapeWebMolisa.Model.csproj.CoreCompileInputs.cache
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ScrapeWebMolisa.Model.dll
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\refint\ScrapeWebMolisa.Model.dll
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ScrapeWebMolisa.Model.pdb
+D:\HocTap\Lap_Trinh_HTML\ScrapeWebMolisa\ScrapeWebMolisa.Model\obj\Debug\net5.0\ref\ScrapeWebMolisa.Model.dll

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ScrapeWebMolisa.Service/1.0.0": {
+        "dependencies": {
+          "ScrapeWebMolisa.Model": "1.0.0",
+          "ScrapeWebMolisa.Repo": "1.0.0"
+        },
+        "runtime": {
+          "ScrapeWebMolisa.Service.dll": {}
+        }
+      },
+      "ScrapeWebMolisa.Model/1.0.0": {
+        "runtime": {
+          "ScrapeWebMolisa.Model.dll": {}
+        }
+      },
+      "ScrapeWebMolisa.Repo/1.0.0": {
+        "dependencies": {
+          "ScrapeWebMolisa.Model": "1.0.0"
+        },
+        "runtime": {
+          "ScrapeWebMolisa.Repo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScrapeWebMolisa.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScrapeWebMolisa.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ScrapeWebMolisa.Repo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

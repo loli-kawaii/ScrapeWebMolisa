@@ -5,6 +5,12 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeWebMolisa", "ScrapeWebMolisa\ScrapeWebMolisa.csproj", "{2CD10E57-48E0-4EFF-9268-3BC3DE111285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeWebMolisa.Model", "ScrapeWebMolisa.Model\ScrapeWebMolisa.Model.csproj", "{FC67FA83-4D3F-4A70-985A-8AE3C53FB701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeWebMolisa.Repo", "ScrapeWebMolisa.Repo\ScrapeWebMolisa.Repo.csproj", "{3D035B0A-931B-404E-9F24-48244459F93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeWebMolisa.Service", "ScrapeWebMolisa.Service\ScrapeWebMolisa.Service.csproj", "{D31E2784-C384-4035-8623-1CBF5FA01B66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{2CD10E57-48E0-4EFF-9268-3BC3DE111285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CD10E57-48E0-4EFF-9268-3BC3DE111285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CD10E57-48E0-4EFF-9268-3BC3DE111285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC67FA83-4D3F-4A70-985A-8AE3C53FB701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC67FA83-4D3F-4A70-985A-8AE3C53FB701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC67FA83-4D3F-4A70-985A-8AE3C53FB701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC67FA83-4D3F-4A70-985A-8AE3C53FB701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D035B0A-931B-404E-9F24-48244459F93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D035B0A-931B-404E-9F24-48244459F93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D035B0A-931B-404E-9F24-48244459F93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D035B0A-931B-404E-9F24-48244459F93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31E2784-C384-4035-8623-1CBF5FA01B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31E2784-C384-4035-8623-1CBF5FA01B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31E2784-C384-4035-8623-1CBF5FA01B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31E2784-C384-4035-8623-1CBF5FA01B66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
